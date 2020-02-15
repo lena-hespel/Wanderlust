@@ -1,0 +1,14 @@
+.btn-orange { 
+	background-color: rgb(222, 137, 11);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bolder;
+	letter-spacing: 2px;
+	transition: color 0.3s ease;
+	height: fit-content;
+}
+
+.btn-orange:hover {
+	background-color: rgb(173, 106, 5);
+}
